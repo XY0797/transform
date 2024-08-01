@@ -1,0 +1,12 @@
+.idea
+.next
+node_modules
+yarn-error.log
+dist
+out
+.DS_Store
+public/static/monaco/*.worker.js.map
+.tool-versions
+heroku
+
+.vercel
